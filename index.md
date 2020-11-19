@@ -1,4 +1,3 @@
-# User-Info
 ## Username: <Users-Name>
 ### Cars: <list-of-cars>
 ### Info:
